@@ -6,15 +6,6 @@ implementation, a NetworkX-optimized implementation, top-10 node
 rankings, presentation-oriented network visualizations, and correlation
 comparisons with standard centrality measures.
 
-## Notebook
-
-[**Open the Jupyter Notebook on
-GitHub**](https://github.com/amansagar88/decay_centrality/blob/main/decay_centrality%20.ipynb)
-
-> This relative link opens the notebook directly when the README and
-> notebook are in the same GitHub repository. If you rename the
-> notebook, update the link accordingly.
-
 ## What's Included
 
 -   Custom Decay Centrality using breadth-first search (BFS).
