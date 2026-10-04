@@ -9,7 +9,7 @@ comparisons with standard centrality measures.
 ## Notebook
 
 [**Open the Jupyter Notebook on
-GitHub**]([./decay_centrality%20.ipynb](https://github.com/amansagar88/decay_centrality/blob/main/decay_centrality%20.ipynb))
+GitHub**]((https://github.com/amansagar88/decay_centrality/blob/main/decay_centrality%20.ipynb))
 
 > This relative link opens the notebook directly when the README and
 > notebook are in the same GitHub repository. If you rename the
